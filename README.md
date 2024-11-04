@@ -1,5 +1,5 @@
-# sadiqWorld
-    Package and modules creates by sadiq organization.
+# LibrariesCreated
+    Package and modules creates by sadiq.
 ---
 ## *Topics Involved*
 ### Branches/tags
